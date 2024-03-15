@@ -1,0 +1,23 @@
+{
+  "name": "@cruzlevv/remaketrouble",
+  "version": "4.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cruzlevv/remaketrouble"
+  },
+  "author": "CRUZLDAO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruzlevv/remaketrouble/issues"
+  },
+  "homepage": "https://github.com/cruzlevv/remaketrouble#readme",
+  "dependencies": {
+    "remaketrouble": "^4.0.0"
+  },
+  "devDependencies": {}
+}
